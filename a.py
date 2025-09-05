@@ -1,3 +1,4 @@
 print("hello Kamil")
-print("a")
-a = 0
+
+b = 0
+
