@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#banner {
+    width: 800px;
+    height: 300px;
+    background-color: lightslategrey;
+    position: fixed;
+}
+
+#nav {
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    float: left;
+    position: fixed;
+}
+
+#content {
+    width: 600px;
+    height: 100px;
+    background-color: lightpink;
+    float: left;
+}
+
+#supporting {
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+    float: left;
+}
+
+#footer {
+    width: 800px;
+    height: 300px;
+    background-color: lightskyblue;
+
+}
